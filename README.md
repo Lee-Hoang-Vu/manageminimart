@@ -1,0 +1,2 @@
+# manageminimart
+Personal Project
